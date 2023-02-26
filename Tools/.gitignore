@@ -1,0 +1,5 @@
+parameters.wiki
+parameters.xml
+*.pdf
+/build
+*.db
